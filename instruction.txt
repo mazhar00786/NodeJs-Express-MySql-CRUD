@@ -1,0 +1,20 @@
+//install express generator
+npm install -g express-generator
+
+//install exprexx Application
+npx express --view=ejs
+
+//install dependencies
+npm install
+
+//Express Application Structure
+
+//Create New Routes File for CRUD Application
+
+//Create Basic Routing for CRUD Application
+
+//to install mysql driver
+npm install mysql
+
+//install flash message package
+npm install connect-flash express express-session --save
